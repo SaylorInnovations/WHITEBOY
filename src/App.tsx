@@ -468,6 +468,9 @@ export default function App() {
             <a href="#" className="hover:text-white/60 transition-colors">Contract</a>
           </div>
         </div>
+        <div className="max-w-6xl mx-auto mt-8 pt-8 border-t border-white/[0.08] text-center text-white/20 text-xs">
+          Powered by Saylor Innovations
+        </div>
       </footer>
     </div>
   );
